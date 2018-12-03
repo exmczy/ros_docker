@@ -13,6 +13,7 @@ source ~/.bashrc
 
 sudo apt-get install -y python-rosinstall python-rosinstall-generator python-wstool build-essential
 
+. ~/.bashrc
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
 catkin_make
