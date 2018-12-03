@@ -1,4 +1,4 @@
-FROM nvidia/cudagl:10.0-base-ubuntu16.04
+FROM nvidia/cudagl:10.0-base-ubuntu18.04
 
 
 RUN apt update && \
