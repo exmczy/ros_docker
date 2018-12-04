@@ -23,3 +23,4 @@ sudo apt-get install -y python-rosinstall python-rosinstall-generator python-wst
 
 mkdir -p ~/catkin_ws/src
 
+echo "set -g mouse on" > ~/.tmux.conf
